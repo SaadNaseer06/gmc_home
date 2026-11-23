@@ -1,0 +1,1768 @@
+{
+  "sourceUrl": "https://ghausia-research.ae/",
+  "clonedAt": "2026-11-23T13:24:13.756Z",
+  "pages": [
+    {
+      "url": "https://ghausia-research.ae/",
+      "path": "index.html",
+      "title": "Home - Ghausia Marketing Research Consultancy -"
+    },
+    {
+      "url": "https://ghausia-research.ae/about-us/",
+      "path": "about-us/index.html",
+      "title": "ABOUT US - Ghausia Research"
+    },
+    {
+      "url": "https://ghausia-research.ae/industries-2/",
+      "path": "industries-2/index.html",
+      "title": "INDUSTRIES - Ghausia Research"
+    },
+    {
+      "url": "https://ghausia-research.ae/experties/",
+      "path": "experties/index.html",
+      "title": "EXPERTIES - Ghausia Research"
+    }
+  ],
+  "assets": [
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/cache/wpo-minify/1776113826/assets/wpo-minify-header-maz-loader1694869906.min.css",
+      "localPath": "wp-content/cache/wpo-minify/1776113826/assets/wpo-minify-header-maz-loader1694869906.min.css",
+      "kind": "css"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/cache/wpo-minify/1776113826/assets/wpo-minify-header-maz-loader-mazloader-google-font.min.css",
+      "localPath": "wp-content/cache/wpo-minify/1776113826/assets/wpo-minify-header-maz-loader-mazloader-google-font.min.css",
+      "kind": "css"
+    },
+    {
+      "remoteUrl": "https://fonts.gstatic.com/s/poppins/v24/pxiEyp8kv8JHgFVrJJbecnFHGPezSQ.woff2",
+      "localPath": "s/poppins/v24/pxiEyp8kv8JHgFVrJJbecnFHGPezSQ.woff2",
+      "kind": "font"
+    },
+    {
+      "remoteUrl": "https://fonts.gstatic.com/s/poppins/v24/pxiEyp8kv8JHgFVrJJnecnFHGPezSQ.woff2",
+      "localPath": "s/poppins/v24/pxiEyp8kv8JHgFVrJJnecnFHGPezSQ.woff2",
+      "kind": "font"
+    },
+    {
+      "remoteUrl": "https://fonts.gstatic.com/s/poppins/v24/pxiEyp8kv8JHgFVrJJfecnFHGPc.woff2",
+      "localPath": "s/poppins/v24/pxiEyp8kv8JHgFVrJJfecnFHGPc.woff2",
+      "kind": "font"
+    },
+    {
+      "remoteUrl": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLCz7Z1xlFd2JQEk.woff2",
+      "localPath": "s/poppins/v24/pxiByp8kv8JHgFVrLCz7Z1xlFd2JQEk.woff2",
+      "kind": "font"
+    },
+    {
+      "remoteUrl": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLCz7Z1JlFd2JQEl8qw.woff2",
+      "localPath": "s/poppins/v24/pxiByp8kv8JHgFVrLCz7Z1JlFd2JQEl8qw.woff2",
+      "kind": "font"
+    },
+    {
+      "remoteUrl": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLCz7Z11lFd2JQEl8qw.woff2",
+      "localPath": "s/poppins/v24/pxiByp8kv8JHgFVrLCz7Z11lFd2JQEl8qw.woff2",
+      "kind": "font"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.15.3",
+      "localPath": "wp-content/plugins/elementor/assets/css/frontend-lite.min.css",
+      "kind": "css"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.15.3",
+      "localPath": "wp-content/plugins/elementor/assets/css/frontend-lite.min.css",
+      "kind": "css"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.21.0",
+      "localPath": "wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css",
+      "kind": "css"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.21.0",
+      "localPath": "wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css",
+      "kind": "css"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5",
+      "localPath": "wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css",
+      "kind": "css"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5",
+      "localPath": "wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css",
+      "kind": "css"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.21.0",
+      "localPath": "wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot",
+      "kind": "font"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.21.0",
+      "localPath": "wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot",
+      "kind": "font"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.21.0",
+      "localPath": "wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2",
+      "kind": "font"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.21.0",
+      "localPath": "wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2",
+      "kind": "font"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.21.0#iefix",
+      "localPath": "wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot",
+      "kind": "font"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.21.0",
+      "localPath": "wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff",
+      "kind": "font"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.21.0",
+      "localPath": "wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff",
+      "kind": "font"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.21.0#eicon",
+      "localPath": "wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.21.0#eicon",
+      "localPath": "wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.21.0",
+      "localPath": "wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf",
+      "kind": "font"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.21.0",
+      "localPath": "wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf",
+      "kind": "font"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/cache/wpo-minify/1776113826/assets/wpo-minify-header-elementor-icons-theme-icons1694869914.min.css",
+      "localPath": "wp-content/cache/wpo-minify/1776113826/assets/wpo-minify-header-elementor-icons-theme-icons1694869914.min.css",
+      "kind": "css"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/cache/wpo-minify/1776113826/assets/wpo-minify-header-elementor-post-51694880542.min.css",
+      "localPath": "wp-content/cache/wpo-minify/1776113826/assets/wpo-minify-header-elementor-post-51694880542.min.css",
+      "kind": "css"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor-pro/assets/css/frontend-lite.min.css?ver=3.15.1",
+      "localPath": "wp-content/plugins/elementor-pro/assets/css/frontend-lite.min.css",
+      "kind": "css"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor-pro/assets/css/frontend-lite.min.css?ver=3.15.1",
+      "localPath": "wp-content/plugins/elementor-pro/assets/css/frontend-lite.min.css",
+      "kind": "css"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/elementor/custom-icons/theme-icons/fonts/theme-icons.ttf#1776113826",
+      "localPath": "wp-content/uploads/elementor/custom-icons/theme-icons/fonts/theme-icons.ttf",
+      "kind": "font"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/elementor/custom-icons/theme-icons/fonts/theme-icons.woff#1776113826",
+      "localPath": "wp-content/uploads/elementor/custom-icons/theme-icons/fonts/theme-icons.woff",
+      "kind": "font"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/elementor/custom-icons/theme-icons/fonts/theme-icons.eot#1776113826",
+      "localPath": "wp-content/uploads/elementor/custom-icons/theme-icons/fonts/theme-icons.eot",
+      "kind": "font"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/elementor/custom-icons/theme-icons/fonts/theme-icons.svg?awqm3j#theme-icons",
+      "localPath": "wp-content/uploads/elementor/custom-icons/theme-icons/fonts/theme-icons.svg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/elementor/custom-icons/theme-icons/fonts/theme-icons.svg?awqm3j#theme-icons",
+      "localPath": "wp-content/uploads/elementor/custom-icons/theme-icons/fonts/theme-icons.svg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://beratung.vamtam.com/wp-content/uploads/2023/06/Geologica-Medium.ttf",
+      "localPath": "wp-content/uploads/2023/06/Geologica-Medium.ttf",
+      "kind": "font"
+    },
+    {
+      "remoteUrl": "https://beratung.vamtam.com/wp-content/uploads/2023/06/Geologica-Regular.ttf",
+      "localPath": "wp-content/uploads/2023/06/Geologica-Regular.ttf",
+      "kind": "font"
+    },
+    {
+      "remoteUrl": "https://beratung.vamtam.com/wp-content/uploads/2023/06/Geologica-Light.ttf",
+      "localPath": "wp-content/uploads/2023/06/Geologica-Light.ttf",
+      "kind": "font"
+    },
+    {
+      "remoteUrl": "https://beratung.vamtam.com/wp-content/uploads/2023/06/Geologica-Bold.ttf",
+      "localPath": "wp-content/uploads/2023/06/Geologica-Bold.ttf",
+      "kind": "font"
+    },
+    {
+      "remoteUrl": "https://beratung.vamtam.com/wp-content/uploads/2023/06/Geologica-SemiBold.ttf",
+      "localPath": "wp-content/uploads/2023/06/Geologica-SemiBold.ttf",
+      "kind": "font"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/cache/wpo-minify/1776113826/assets/wpo-minify-header-font-awesome-5-all1694869905.min.css",
+      "localPath": "wp-content/cache/wpo-minify/1776113826/assets/wpo-minify-header-font-awesome-5-all1694869905.min.css",
+      "kind": "css"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/cache/wpo-minify/1776113826/assets/wpo-minify-header-font-awesome-4-shim1694869905.min.css",
+      "localPath": "wp-content/cache/wpo-minify/1776113826/assets/wpo-minify-header-font-awesome-4-shim1694869905.min.css",
+      "kind": "css"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/cache/wpo-minify/1776113826/assets/wpo-minify-header-elementor-post-9101757730928.min.css",
+      "localPath": "wp-content/cache/wpo-minify/1776113826/assets/wpo-minify-header-elementor-post-9101757730928.min.css",
+      "kind": "css"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2",
+      "localPath": "wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2",
+      "kind": "font"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot",
+      "localPath": "wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot",
+      "kind": "font"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot#1776113826",
+      "localPath": "wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot",
+      "kind": "font"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/section2-scaled.jpg",
+      "localPath": "wp-content/uploads/2023/09/section2-scaled.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/opportunities2-scaled.jpg",
+      "localPath": "wp-content/uploads/2023/09/opportunities2-scaled.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff",
+      "localPath": "wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff",
+      "kind": "font"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf",
+      "localPath": "wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf",
+      "kind": "font"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/section3-scaled.jpg",
+      "localPath": "wp-content/uploads/2023/09/section3-scaled.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg#fontawesome",
+      "localPath": "wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/concentrated-colleagues-office-using-computer-1024x683.jpg",
+      "localPath": "wp-content/uploads/2023/09/concentrated-colleagues-office-using-computer-1024x683.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2",
+      "localPath": "wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2",
+      "kind": "font"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot",
+      "localPath": "wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot",
+      "kind": "font"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot#1776113826",
+      "localPath": "wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot",
+      "kind": "font"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/magnifying-glass-magnifies-metal-bottle-laboratory-generated-by-ai-scaled.jpg",
+      "localPath": "wp-content/uploads/2023/09/magnifying-glass-magnifies-metal-bottle-laboratory-generated-by-ai-scaled.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/contact-1-scaled.jpg",
+      "localPath": "wp-content/uploads/2023/09/contact-1-scaled.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff",
+      "localPath": "wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff",
+      "kind": "font"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.svg#fontawesome",
+      "localPath": "wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.svg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.ttf",
+      "localPath": "wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.ttf",
+      "kind": "font"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2",
+      "localPath": "wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2",
+      "kind": "font"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot#1776113826",
+      "localPath": "wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot",
+      "kind": "font"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot",
+      "localPath": "wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot",
+      "kind": "font"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf",
+      "localPath": "wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf",
+      "kind": "font"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff",
+      "localPath": "wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff",
+      "kind": "font"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg#fontawesome",
+      "localPath": "wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/cache/wpo-minify/1776113826/assets/wpo-minify-header-elementor-post-109951694880544.min.css",
+      "localPath": "wp-content/cache/wpo-minify/1776113826/assets/wpo-minify-header-elementor-post-109951694880544.min.css",
+      "kind": "css"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/cache/wpo-minify/1776113826/assets/wpo-minify-header-elementor-post-108331757730878.min.css",
+      "localPath": "wp-content/cache/wpo-minify/1776113826/assets/wpo-minify-header-elementor-post-108331757730878.min.css",
+      "kind": "css"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/cache/wpo-minify/1776113826/assets/wpo-minify-header-elementor-post-68111757730814.min.css",
+      "localPath": "wp-content/cache/wpo-minify/1776113826/assets/wpo-minify-header-elementor-post-68111757730814.min.css",
+      "kind": "css"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/cache/wpo-minify/1776113826/assets/wpo-minify-header-my-child-theme-style1726520484.min.css",
+      "localPath": "wp-content/cache/wpo-minify/1776113826/assets/wpo-minify-header-my-child-theme-style1726520484.min.css",
+      "kind": "css"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/cache/wpo-minify/1776113826/assets/wpo-minify-header-elementor-post-99131694880544.min.css",
+      "localPath": "wp-content/cache/wpo-minify/1776113826/assets/wpo-minify-header-elementor-post-99131694880544.min.css",
+      "kind": "css"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/cache/wpo-minify/1776113826/assets/wpo-minify-header-vamtam-front-all1694869920.min.css",
+      "localPath": "wp-content/cache/wpo-minify/1776113826/assets/wpo-minify-header-vamtam-front-all1694869920.min.css",
+      "kind": "css"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/themes/beratung/vamtam/assets/fonts/icons/icomoon.woff2",
+      "localPath": "wp-content/themes/beratung/vamtam/assets/fonts/icons/icomoon.woff2",
+      "kind": "font"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/themes/beratung/vamtam/assets/fonts/icons/icomoon.woff",
+      "localPath": "wp-content/themes/beratung/vamtam/assets/fonts/icons/icomoon.woff",
+      "kind": "font"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/gmc-laetter-head-logo.png",
+      "localPath": "wp-content/uploads/2023/09/gmc-laetter-head-logo.png",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/themes/beratung/vamtam/assets/fonts/icons/icomoon.ttf",
+      "localPath": "wp-content/themes/beratung/vamtam/assets/fonts/icons/icomoon.ttf",
+      "kind": "font"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/themes/beratung/vamtam/assets/fonts/theme-icons/theme-icons.woff2",
+      "localPath": "wp-content/themes/beratung/vamtam/assets/fonts/theme-icons/theme-icons.woff2",
+      "kind": "font"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/themes/beratung/vamtam/assets/fonts/theme-icons/theme-icons.woff",
+      "localPath": "wp-content/themes/beratung/vamtam/assets/fonts/theme-icons/theme-icons.woff",
+      "kind": "font"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/cache/wpo-minify/1776113826/assets/wpo-minify-header-vamtam-theme-elementor-max1694869920.min.css",
+      "localPath": "wp-content/cache/wpo-minify/1776113826/assets/wpo-minify-header-vamtam-theme-elementor-max1694869920.min.css",
+      "kind": "css"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/cache/wpo-minify/1776113826/assets/wpo-minify-header-elementor-icons-fa-solid1694869905.min.css",
+      "localPath": "wp-content/cache/wpo-minify/1776113826/assets/wpo-minify-header-elementor-icons-fa-solid1694869905.min.css",
+      "kind": "css"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/cache/wpo-minify/1776113826/assets/wpo-minify-header-elementor-icons-shared-01694869905.min.css",
+      "localPath": "wp-content/cache/wpo-minify/1776113826/assets/wpo-minify-header-elementor-icons-shared-01694869905.min.css",
+      "kind": "css"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/cache/wpo-minify/1776113826/assets/wpo-minify-header-elementor-icons-fa-brands1694869905.min.css",
+      "localPath": "wp-content/cache/wpo-minify/1776113826/assets/wpo-minify-header-elementor-icons-fa-brands1694869905.min.css",
+      "kind": "css"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/cache/wpo-minify/1776113826/assets/wpo-minify-footer-elementor-post-58581697271018.min.css",
+      "localPath": "wp-content/cache/wpo-minify/1776113826/assets/wpo-minify-footer-elementor-post-58581697271018.min.css",
+      "kind": "css"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/cache/wpo-minify/1776113826/assets/wpo-minify-footer-elementor-post-9890561726515188.min.css",
+      "localPath": "wp-content/cache/wpo-minify/1776113826/assets/wpo-minify-footer-elementor-post-9890561726515188.min.css",
+      "kind": "css"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/cache/wpo-minify/1776113826/assets/wpo-minify-footer-elementor-post-9879961697302617.min.css",
+      "localPath": "wp-content/cache/wpo-minify/1776113826/assets/wpo-minify-footer-elementor-post-9879961697302617.min.css",
+      "kind": "css"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/cache/wpo-minify/1776113826/assets/wpo-minify-footer-elementor-post-9879951697303155.min.css",
+      "localPath": "wp-content/cache/wpo-minify/1776113826/assets/wpo-minify-footer-elementor-post-9879951697303155.min.css",
+      "kind": "css"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/cache/wpo-minify/1776113826/assets/wpo-minify-footer-elementor-post-9879941697303155.min.css",
+      "localPath": "wp-content/cache/wpo-minify/1776113826/assets/wpo-minify-footer-elementor-post-9879941697303155.min.css",
+      "kind": "css"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/cache/wpo-minify/1776113826/assets/wpo-minify-footer-elementor-post-70371697302617.min.css",
+      "localPath": "wp-content/cache/wpo-minify/1776113826/assets/wpo-minify-footer-elementor-post-70371697302617.min.css",
+      "kind": "css"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/cache/wpo-minify/1776113826/assets/wpo-minify-footer-elementor-post-58801697302284.min.css",
+      "localPath": "wp-content/cache/wpo-minify/1776113826/assets/wpo-minify-footer-elementor-post-58801697302284.min.css",
+      "kind": "css"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/cache/wpo-minify/1776113826/assets/wpo-minify-footer-elementor-post-70401697302090.min.css",
+      "localPath": "wp-content/cache/wpo-minify/1776113826/assets/wpo-minify-footer-elementor-post-70401697302090.min.css",
+      "kind": "css"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/cache/wpo-minify/1776113826/assets/wpo-minify-footer-elementor-post-110571694880546.min.css",
+      "localPath": "wp-content/cache/wpo-minify/1776113826/assets/wpo-minify-footer-elementor-post-110571694880546.min.css",
+      "kind": "css"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3",
+      "localPath": "wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css",
+      "kind": "css"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3",
+      "localPath": "wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css",
+      "kind": "css"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/cache/wpo-minify/1776113826/assets/wpo-minify-footer-elementor-post-99631694880546.min.css",
+      "localPath": "wp-content/cache/wpo-minify/1776113826/assets/wpo-minify-footer-elementor-post-99631694880546.min.css",
+      "kind": "css"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot?#iefix",
+      "localPath": "wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot",
+      "kind": "font"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.15.3",
+      "localPath": "wp-content/plugins/elementor/assets/lib/animations/animations.min.css",
+      "kind": "css"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.15.3",
+      "localPath": "wp-content/plugins/elementor/assets/lib/animations/animations.min.css",
+      "kind": "css"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/original-png-logo.png",
+      "localPath": "wp-content/uploads/2023/09/original-png-logo.png",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/cache/wpo-minify/1776113826/assets/wpo-minify-header-jquerymaz-loader1694869906.min.js",
+      "localPath": "wp-content/cache/wpo-minify/1776113826/assets/wpo-minify-header-jquerymaz-loader1694869906.min.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.15.3",
+      "localPath": "wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.15.3",
+      "localPath": "wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+      "localPath": "wp-includes/js/jquery/jquery-migrate.min.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+      "localPath": "wp-includes/js/jquery/jquery-migrate.min.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/cookie-law-info/lite/frontend/js/script.min.js?ver=3.4.0",
+      "localPath": "wp-content/plugins/cookie-law-info/lite/frontend/js/script.min.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/cookie-law-info/lite/frontend/js/script.min.js?ver=3.4.0",
+      "localPath": "wp-content/plugins/cookie-law-info/lite/frontend/js/script.min.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+      "localPath": "wp-includes/js/jquery/jquery.min.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+      "localPath": "wp-includes/js/jquery/jquery.min.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css",
+      "localPath": "wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css",
+      "kind": "css"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/opportunities-1536x1024.jpg",
+      "localPath": "wp-content/uploads/2023/09/opportunities-1536x1024.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor-pro/assets/css/widget-animated-headline.min.css",
+      "localPath": "wp-content/plugins/elementor-pro/assets/css/widget-animated-headline.min.css",
+      "kind": "css"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css",
+      "localPath": "wp-content/plugins/elementor/assets/css/widget-icon-box.min.css",
+      "kind": "css"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css",
+      "localPath": "wp-content/plugins/elementor/assets/css/widget-icon-list.min.css",
+      "kind": "css"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2024/09/saudi.png",
+      "localPath": "wp-content/uploads/2024/09/saudi.png",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2024/09/dubai.png",
+      "localPath": "wp-content/uploads/2024/09/dubai.png",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor-pro/assets/css/widget-loop-builder.min.css",
+      "localPath": "wp-content/plugins/elementor-pro/assets/css/widget-loop-builder.min.css",
+      "kind": "css"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.15.3",
+      "localPath": "wp-content/plugins/elementor/assets/js/webpack.runtime.min.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.15.3",
+      "localPath": "wp-content/plugins/elementor/assets/js/webpack.runtime.min.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor-pro/assets/css/widget-theme-elements.min.css",
+      "localPath": "wp-content/plugins/elementor-pro/assets/css/widget-theme-elements.min.css",
+      "kind": "css"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor-pro/assets/css/widget-call-to-action.min.css",
+      "localPath": "wp-content/plugins/elementor-pro/assets/css/widget-call-to-action.min.css",
+      "kind": "css"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/themes/beratung/vamtam/assets/js/all.min.js?ver=1694027357",
+      "localPath": "wp-content/themes/beratung/vamtam/assets/js/all.min.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/themes/beratung/vamtam/assets/js/all.min.js?ver=1694027357",
+      "localPath": "wp-content/themes/beratung/vamtam/assets/js/all.min.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.0.1",
+      "localPath": "wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.0.1",
+      "localPath": "wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/page-scroll-to-id/js/page-scroll-to-id.min.js?ver=1.7.9",
+      "localPath": "wp-content/plugins/page-scroll-to-id/js/page-scroll-to-id.min.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/page-scroll-to-id/js/page-scroll-to-id.min.js?ver=1.7.9",
+      "localPath": "wp-content/plugins/page-scroll-to-id/js/page-scroll-to-id.min.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2",
+      "localPath": "wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2",
+      "localPath": "wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-includes/js/jquery/ui/core.min.js?ver=1.14.2",
+      "localPath": "wp-includes/js/jquery/ui/core.min.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-includes/js/jquery/ui/core.min.js?ver=1.14.2",
+      "localPath": "wp-includes/js/jquery/ui/core.min.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.15.3",
+      "localPath": "wp-content/plugins/elementor/assets/js/frontend-modules.min.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.15.3",
+      "localPath": "wp-content/plugins/elementor/assets/js/frontend-modules.min.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min.js?ver=0.2.1",
+      "localPath": "wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min.js?ver=0.2.1",
+      "localPath": "wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.15.3",
+      "localPath": "wp-content/plugins/elementor/assets/js/frontend.min.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.15.3",
+      "localPath": "wp-content/plugins/elementor/assets/js/frontend.min.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/vamtam-elementor-integration-beratung//assets/js/widgets/nav-menu/vamtam-nav-menu.min.js?ver=1.0.3",
+      "localPath": "wp-content/plugins/vamtam-elementor-integration-beratung//assets/js/widgets/nav-menu/vamtam-nav-menu.min.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/vamtam-elementor-integration-beratung//assets/js/widgets/nav-menu/vamtam-nav-menu.min.js?ver=1.0.3",
+      "localPath": "wp-content/plugins/vamtam-elementor-integration-beratung//assets/js/widgets/nav-menu/vamtam-nav-menu.min.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/vamtam-elementor-integration-beratung//assets/js/widgets/button/vamtam-button.min.js?ver=1.0.3",
+      "localPath": "wp-content/plugins/vamtam-elementor-integration-beratung//assets/js/widgets/button/vamtam-button.min.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/vamtam-elementor-integration-beratung//assets/js/widgets/button/vamtam-button.min.js?ver=1.0.3",
+      "localPath": "wp-content/plugins/vamtam-elementor-integration-beratung//assets/js/widgets/button/vamtam-button.min.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/vamtam-elementor-integration-beratung//assets/js/widgets/form/vamtam-form.min.js?ver=1.0.3",
+      "localPath": "wp-content/plugins/vamtam-elementor-integration-beratung//assets/js/widgets/form/vamtam-form.min.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/vamtam-elementor-integration-beratung//assets/js/widgets/form/vamtam-form.min.js?ver=1.0.3",
+      "localPath": "wp-content/plugins/vamtam-elementor-integration-beratung//assets/js/widgets/form/vamtam-form.min.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255",
+      "localPath": "wp-includes/js/dist/hooks.min.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255",
+      "localPath": "wp-includes/js/dist/hooks.min.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-includes/js/imagesloaded.min.js?ver=5.0.0",
+      "localPath": "wp-includes/js/imagesloaded.min.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-includes/js/imagesloaded.min.js?ver=5.0.0",
+      "localPath": "wp-includes/js/imagesloaded.min.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.15.1",
+      "localPath": "wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.15.1",
+      "localPath": "wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216",
+      "localPath": "wp-includes/js/dist/i18n.min.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216",
+      "localPath": "wp-includes/js/dist/i18n.min.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.15.1",
+      "localPath": "wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.15.1",
+      "localPath": "wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.15.1",
+      "localPath": "wp-content/plugins/elementor-pro/assets/js/frontend.min.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.15.1",
+      "localPath": "wp-content/plugins/elementor-pro/assets/js/frontend.min.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.9.0",
+      "localPath": "wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.9.0",
+      "localPath": "wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/06/logo.svg",
+      "localPath": "wp-content/uploads/2023/06/logo.svg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/vamtam-elementor-integration-beratung/assets/js/vamtam-elementor-frontend.min.js?ver=1.0.3",
+      "localPath": "wp-content/plugins/vamtam-elementor-integration-beratung/assets/js/vamtam-elementor-frontend.min.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/vamtam-elementor-integration-beratung/assets/js/vamtam-elementor-frontend.min.js?ver=1.0.3",
+      "localPath": "wp-content/plugins/vamtam-elementor-integration-beratung/assets/js/vamtam-elementor-frontend.min.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.15.1",
+      "localPath": "wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.15.1",
+      "localPath": "wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/cache/wpo-minify/1776113826/assets/wpo-minify-header-vamtam-theme-elementor-below-max1694869920.min.css",
+      "localPath": "wp-content/cache/wpo-minify/1776113826/assets/wpo-minify-header-vamtam-theme-elementor-below-max1694869920.min.css",
+      "kind": "css"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/cache/wpo-minify/1776113826/assets/wpo-minify-header-vamtam-theme-elementor-small1694869920.min.css",
+      "localPath": "wp-content/cache/wpo-minify/1776113826/assets/wpo-minify-header-vamtam-theme-elementor-small1694869920.min.css",
+      "kind": "css"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/maz-loader/media/public/img/svg/28.svg",
+      "localPath": "wp-content/plugins/maz-loader/media/public/img/svg/28.svg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/burst/js/burst.min.js?ver=1795377633",
+      "localPath": "wp-content/uploads/burst/js/burst.min.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/burst/js/burst.min.js?ver=1795377633",
+      "localPath": "wp-content/uploads/burst/js/burst.min.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/burst-statistics/assets/js/timeme/timeme.min.js?ver=1776110413",
+      "localPath": "wp-content/plugins/burst-statistics/assets/js/timeme/timeme.min.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/burst-statistics/assets/js/timeme/timeme.min.js?ver=1776110413",
+      "localPath": "wp-content/plugins/burst-statistics/assets/js/timeme/timeme.min.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/cookie-law-info/lite/frontend/images/revisit.svg",
+      "localPath": "wp-content/plugins/cookie-law-info/lite/frontend/images/revisit.svg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/cookie-law-info/lite/frontend/images/close.svg",
+      "localPath": "wp-content/plugins/cookie-law-info/lite/frontend/images/close.svg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2024/09/egypt.png",
+      "localPath": "wp-content/uploads/2024/09/egypt.png",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2024/09/usa.png",
+      "localPath": "wp-content/uploads/2024/09/usa.png",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2024/09/pakistan.png",
+      "localPath": "wp-content/uploads/2024/09/pakistan.png",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/Customer-Satisfaction-SUrvbey.jpg",
+      "localPath": "wp-content/uploads/2023/09/Customer-Satisfaction-SUrvbey.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/elementor/custom-icons/theme-icons/fonts/theme-icons.ttf",
+      "localPath": "wp-content/uploads/elementor/custom-icons/theme-icons/fonts/theme-icons.ttf",
+      "kind": "font"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/product-testing.jpg",
+      "localPath": "wp-content/uploads/2023/09/product-testing.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/Net-promoter-Score-NPS-Tracking.jpg",
+      "localPath": "wp-content/uploads/2023/09/Net-promoter-Score-NPS-Tracking.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/themes/beratung/vamtam/assets/js/low-priority.js",
+      "localPath": "wp-content/themes/beratung/vamtam/assets/js/low-priority.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/opportunities-scaled.jpg",
+      "localPath": "wp-content/uploads/2023/09/opportunities-scaled.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/4-scaled.jpg",
+      "localPath": "wp-content/uploads/2023/09/4-scaled.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/9-scaled.jpg",
+      "localPath": "wp-content/uploads/2023/09/9-scaled.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor-pro/assets/js/nav-menu.3347cc64f9b3d71f7f0c.bundle.min.js",
+      "localPath": "wp-content/plugins/elementor-pro/assets/js/nav-menu.3347cc64f9b3d71f7f0c.bundle.min.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/1-1-scaled.jpg",
+      "localPath": "wp-content/uploads/2023/09/1-1-scaled.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/2-1-scaled.jpg",
+      "localPath": "wp-content/uploads/2023/09/2-1-scaled.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/3-1-scaled.jpg",
+      "localPath": "wp-content/uploads/2023/09/3-1-scaled.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/5-scaled.jpg",
+      "localPath": "wp-content/uploads/2023/09/5-scaled.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/6-scaled.jpg",
+      "localPath": "wp-content/uploads/2023/09/6-scaled.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/carlos-muza-hpjSkU2UYSU-unsplash.jpg",
+      "localPath": "wp-content/uploads/2023/09/carlos-muza-hpjSkU2UYSU-unsplash.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/11-scaled.jpg",
+      "localPath": "wp-content/uploads/2023/09/11-scaled.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/12-scaled.jpg",
+      "localPath": "wp-content/uploads/2023/09/12-scaled.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor-pro/assets/js/animated-headline.ffb4bb4ce1b16b11446d.bundle.min.js",
+      "localPath": "wp-content/plugins/elementor-pro/assets/js/animated-headline.ffb4bb4ce1b16b11446d.bundle.min.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/13-scaled.jpg",
+      "localPath": "wp-content/uploads/2023/09/13-scaled.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor-pro/assets/js/loop-carousel.4e8fd6593adbba21698e.bundle.min.js",
+      "localPath": "wp-content/plugins/elementor-pro/assets/js/loop-carousel.4e8fd6593adbba21698e.bundle.min.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor/assets/js/text-editor.2c35aafbe5bf0e127950.bundle.min.js",
+      "localPath": "wp-content/plugins/elementor/assets/js/text-editor.2c35aafbe5bf0e127950.bundle.min.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor/assets/js/counter.02cef29c589e742d4c8c.bundle.min.js",
+      "localPath": "wp-content/plugins/elementor/assets/js/counter.02cef29c589e742d4c8c.bundle.min.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor-pro/assets/js/loop.a9bed2dcd86eddf71249.bundle.min.js",
+      "localPath": "wp-content/plugins/elementor-pro/assets/js/loop.a9bed2dcd86eddf71249.bundle.min.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor-pro/assets/js/popup.483b906ddaa1af17ff14.bundle.min.js",
+      "localPath": "wp-content/plugins/elementor-pro/assets/js/popup.483b906ddaa1af17ff14.bundle.min.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor-pro/assets/js/form.72b77b99d67b130634d2.bundle.min.js",
+      "localPath": "wp-content/plugins/elementor-pro/assets/js/form.72b77b99d67b130634d2.bundle.min.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js?ver=8.4.5",
+      "localPath": "wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js?ver=8.4.5",
+      "localPath": "wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/1-scaled.jpg",
+      "localPath": "wp-content/uploads/2023/09/1-scaled.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2024/09/egypt-150x150.png",
+      "localPath": "wp-content/uploads/2024/09/egypt-150x150.png",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/3-scaled.jpg",
+      "localPath": "wp-content/uploads/2023/09/3-scaled.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/2-scaled.jpg",
+      "localPath": "wp-content/uploads/2023/09/2-scaled.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2024/09/pakistan-150x150.png",
+      "localPath": "wp-content/uploads/2024/09/pakistan-150x150.png",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2024/09/usa-150x150.png",
+      "localPath": "wp-content/uploads/2024/09/usa-150x150.png",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/3-1-768x512.jpg",
+      "localPath": "wp-content/uploads/2023/09/3-1-768x512.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/1-1-768x510.jpg",
+      "localPath": "wp-content/uploads/2023/09/1-1-768x510.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/2-1-768x512.jpg",
+      "localPath": "wp-content/uploads/2023/09/2-1-768x512.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/carlos-muza-hpjSkU2UYSU-unsplash-768x547.jpg",
+      "localPath": "wp-content/uploads/2023/09/carlos-muza-hpjSkU2UYSU-unsplash-768x547.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/5-768x512.jpg",
+      "localPath": "wp-content/uploads/2023/09/5-768x512.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/6-768x512.jpg",
+      "localPath": "wp-content/uploads/2023/09/6-768x512.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/9-768x473.jpg",
+      "localPath": "wp-content/uploads/2023/09/9-768x473.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/4-768x493.jpg",
+      "localPath": "wp-content/uploads/2023/09/4-768x493.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/12-768x432.jpg",
+      "localPath": "wp-content/uploads/2023/09/12-768x432.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/11-768x512.jpg",
+      "localPath": "wp-content/uploads/2023/09/11-768x512.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/13-768x513.jpg",
+      "localPath": "wp-content/uploads/2023/09/13-768x513.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/opportunities-300x200.jpg",
+      "localPath": "wp-content/uploads/2023/09/opportunities-300x200.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/opportunities-2048x1365.jpg",
+      "localPath": "wp-content/uploads/2023/09/opportunities-2048x1365.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/opportunities-768x512.jpg",
+      "localPath": "wp-content/uploads/2023/09/opportunities-768x512.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/opportunities-1024x683.jpg",
+      "localPath": "wp-content/uploads/2023/09/opportunities-1024x683.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2024/09/dubai-300x300.png",
+      "localPath": "wp-content/uploads/2024/09/dubai-300x300.png",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2024/09/saudi-150x150.png",
+      "localPath": "wp-content/uploads/2024/09/saudi-150x150.png",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2024/09/saudi-300x300.png",
+      "localPath": "wp-content/uploads/2024/09/saudi-300x300.png",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2024/09/egypt-300x300.png",
+      "localPath": "wp-content/uploads/2024/09/egypt-300x300.png",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2024/09/dubai-150x150.png",
+      "localPath": "wp-content/uploads/2024/09/dubai-150x150.png",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2024/09/usa-300x300.png",
+      "localPath": "wp-content/uploads/2024/09/usa-300x300.png",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2024/09/pakistan-300x300.png",
+      "localPath": "wp-content/uploads/2024/09/pakistan-300x300.png",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/1-1-300x199.jpg",
+      "localPath": "wp-content/uploads/2023/09/1-1-300x199.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/1-1-1024x680.jpg",
+      "localPath": "wp-content/uploads/2023/09/1-1-1024x680.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/2-1-300x200.jpg",
+      "localPath": "wp-content/uploads/2023/09/2-1-300x200.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/1-1-1536x1020.jpg",
+      "localPath": "wp-content/uploads/2023/09/1-1-1536x1020.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/1-1-2048x1360.jpg",
+      "localPath": "wp-content/uploads/2023/09/1-1-2048x1360.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/2-1-1536x1024.jpg",
+      "localPath": "wp-content/uploads/2023/09/2-1-1536x1024.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/2-1-1024x683.jpg",
+      "localPath": "wp-content/uploads/2023/09/2-1-1024x683.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/2-1-2048x1366.jpg",
+      "localPath": "wp-content/uploads/2023/09/2-1-2048x1366.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/3-1-300x200.jpg",
+      "localPath": "wp-content/uploads/2023/09/3-1-300x200.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/3-1-1024x683.jpg",
+      "localPath": "wp-content/uploads/2023/09/3-1-1024x683.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/3-1-1536x1025.jpg",
+      "localPath": "wp-content/uploads/2023/09/3-1-1536x1025.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/3-1-2048x1366.jpg",
+      "localPath": "wp-content/uploads/2023/09/3-1-2048x1366.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/4-300x192.jpg",
+      "localPath": "wp-content/uploads/2023/09/4-300x192.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/4-1024x657.jpg",
+      "localPath": "wp-content/uploads/2023/09/4-1024x657.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/4-1536x985.jpg",
+      "localPath": "wp-content/uploads/2023/09/4-1536x985.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/4-2048x1313.jpg",
+      "localPath": "wp-content/uploads/2023/09/4-2048x1313.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/5-300x200.jpg",
+      "localPath": "wp-content/uploads/2023/09/5-300x200.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/5-1024x683.jpg",
+      "localPath": "wp-content/uploads/2023/09/5-1024x683.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/5-2048x1365.jpg",
+      "localPath": "wp-content/uploads/2023/09/5-2048x1365.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/5-1536x1024.jpg",
+      "localPath": "wp-content/uploads/2023/09/5-1536x1024.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/6-300x200.jpg",
+      "localPath": "wp-content/uploads/2023/09/6-300x200.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/6-1024x683.jpg",
+      "localPath": "wp-content/uploads/2023/09/6-1024x683.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/6-1536x1024.jpg",
+      "localPath": "wp-content/uploads/2023/09/6-1536x1024.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/6-2048x1365.jpg",
+      "localPath": "wp-content/uploads/2023/09/6-2048x1365.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/Customer-Satisfaction-SUrvbey-300x200.jpg",
+      "localPath": "wp-content/uploads/2023/09/Customer-Satisfaction-SUrvbey-300x200.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/carlos-muza-hpjSkU2UYSU-unsplash-300x214.jpg",
+      "localPath": "wp-content/uploads/2023/09/carlos-muza-hpjSkU2UYSU-unsplash-300x214.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/carlos-muza-hpjSkU2UYSU-unsplash-2048x1459.jpg",
+      "localPath": "wp-content/uploads/2023/09/carlos-muza-hpjSkU2UYSU-unsplash-2048x1459.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/carlos-muza-hpjSkU2UYSU-unsplash-1024x729.jpg",
+      "localPath": "wp-content/uploads/2023/09/carlos-muza-hpjSkU2UYSU-unsplash-1024x729.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/carlos-muza-hpjSkU2UYSU-unsplash-1536x1094.jpg",
+      "localPath": "wp-content/uploads/2023/09/carlos-muza-hpjSkU2UYSU-unsplash-1536x1094.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/9-300x185.jpg",
+      "localPath": "wp-content/uploads/2023/09/9-300x185.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/9-1536x947.jpg",
+      "localPath": "wp-content/uploads/2023/09/9-1536x947.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/9-1024x631.jpg",
+      "localPath": "wp-content/uploads/2023/09/9-1024x631.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/11-300x200.jpg",
+      "localPath": "wp-content/uploads/2023/09/11-300x200.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/product-testing-300x197.jpg",
+      "localPath": "wp-content/uploads/2023/09/product-testing-300x197.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/9-2048x1262.jpg",
+      "localPath": "wp-content/uploads/2023/09/9-2048x1262.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/11-1536x1024.jpg",
+      "localPath": "wp-content/uploads/2023/09/11-1536x1024.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/11-2048x1365.jpg",
+      "localPath": "wp-content/uploads/2023/09/11-2048x1365.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/11-1024x683.jpg",
+      "localPath": "wp-content/uploads/2023/09/11-1024x683.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/12-300x169.jpg",
+      "localPath": "wp-content/uploads/2023/09/12-300x169.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/12-1536x864.jpg",
+      "localPath": "wp-content/uploads/2023/09/12-1536x864.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/12-1024x576.jpg",
+      "localPath": "wp-content/uploads/2023/09/12-1024x576.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/12-2048x1152.jpg",
+      "localPath": "wp-content/uploads/2023/09/12-2048x1152.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/13-1024x684.jpg",
+      "localPath": "wp-content/uploads/2023/09/13-1024x684.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/13-300x200.jpg",
+      "localPath": "wp-content/uploads/2023/09/13-300x200.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/13-1536x1025.jpg",
+      "localPath": "wp-content/uploads/2023/09/13-1536x1025.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/Net-promoter-Score-NPS-Tracking-300x197.jpg",
+      "localPath": "wp-content/uploads/2023/09/Net-promoter-Score-NPS-Tracking-300x197.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/13-2048x1367.jpg",
+      "localPath": "wp-content/uploads/2023/09/13-2048x1367.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/themes/beratung/vamtam/assets/images/loader-ring.gif",
+      "localPath": "wp-content/themes/beratung/vamtam/assets/images/loader-ring.gif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/plugins/cookie-law-info/lite/frontend/images/placeholder.svg",
+      "localPath": "wp-content/plugins/cookie-law-info/lite/frontend/images/placeholder.svg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/07/GettyImages-1138997324-reviews.jpg",
+      "localPath": "wp-content/uploads/2023/07/GettyImages-1138997324-reviews.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/07/GettyImages-475566446-reviews.jpg",
+      "localPath": "wp-content/uploads/2023/07/GettyImages-475566446-reviews.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/07/GettyImages-1412591716-reviews.jpg",
+      "localPath": "wp-content/uploads/2023/07/GettyImages-1412591716-reviews.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/cache/wpo-minify/1776113826/assets/wpo-minify-header-elementor-post-9882501696486824.min.css",
+      "localPath": "wp-content/cache/wpo-minify/1776113826/assets/wpo-minify-header-elementor-post-9882501696486824.min.css",
+      "kind": "css"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/cache/wpo-minify/1776113826/assets/wpo-minify-header-elementor-post-69791694883505.min.css",
+      "localPath": "wp-content/cache/wpo-minify/1776113826/assets/wpo-minify-header-elementor-post-69791694883505.min.css",
+      "kind": "css"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/cache/wpo-minify/1776113826/assets/wpo-minify-header-elementor-post-16701694883505.min.css",
+      "localPath": "wp-content/cache/wpo-minify/1776113826/assets/wpo-minify-header-elementor-post-16701694883505.min.css",
+      "kind": "css"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/cache/wpo-minify/1776113826/assets/wpo-minify-header-elementor-post-19921694883505.min.css",
+      "localPath": "wp-content/cache/wpo-minify/1776113826/assets/wpo-minify-header-elementor-post-19921694883505.min.css",
+      "kind": "css"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/07/dots-left-GettyImages-1478119123.png",
+      "localPath": "wp-content/uploads/2023/07/dots-left-GettyImages-1478119123.png",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/banner-2-768x512.jpg",
+      "localPath": "wp-content/uploads/2023/09/banner-2-768x512.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/banner-2-300x200.jpg",
+      "localPath": "wp-content/uploads/2023/09/banner-2-300x200.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/banner-2-1024x683.jpg",
+      "localPath": "wp-content/uploads/2023/09/banner-2-1024x683.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/banner-2-1536x1024.jpg",
+      "localPath": "wp-content/uploads/2023/09/banner-2-1536x1024.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/banner-2-2048x1365.jpg",
+      "localPath": "wp-content/uploads/2023/09/banner-2-2048x1365.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/cache/wpo-minify/1776113826/assets/wpo-minify-header-elementor-post-9882441695675885.min.css",
+      "localPath": "wp-content/cache/wpo-minify/1776113826/assets/wpo-minify-header-elementor-post-9882441695675885.min.css",
+      "kind": "css"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/1-2-768x432.jpg",
+      "localPath": "wp-content/uploads/2023/09/1-2-768x432.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/fod-768x401.jpg",
+      "localPath": "wp-content/uploads/2023/09/fod-768x401.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/7-1-768x432.jpg",
+      "localPath": "wp-content/uploads/2023/09/7-1-768x432.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/4-1-768x512.jpg",
+      "localPath": "wp-content/uploads/2023/09/4-1-768x512.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/5-1-768x511.jpg",
+      "localPath": "wp-content/uploads/2023/09/5-1-768x511.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/social-768x512.jpg",
+      "localPath": "wp-content/uploads/2023/09/social-768x512.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/Automotive-Research-768x576.png",
+      "localPath": "wp-content/uploads/2023/09/Automotive-Research-768x576.png",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/Hospitality.jpg",
+      "localPath": "wp-content/uploads/2023/09/Hospitality.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/6-1-768x512.jpg",
+      "localPath": "wp-content/uploads/2023/09/6-1-768x512.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/7-1-scaled.jpg",
+      "localPath": "wp-content/uploads/2023/09/7-1-scaled.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/Government-Public-sector.jpg",
+      "localPath": "wp-content/uploads/2023/09/Government-Public-sector.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/6-1-scaled.jpg",
+      "localPath": "wp-content/uploads/2023/09/6-1-scaled.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/4-1-scaled.jpg",
+      "localPath": "wp-content/uploads/2023/09/4-1-scaled.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/1-2-scaled.jpg",
+      "localPath": "wp-content/uploads/2023/09/1-2-scaled.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/social-scaled.jpg",
+      "localPath": "wp-content/uploads/2023/09/social-scaled.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/Automotive-Research.png",
+      "localPath": "wp-content/uploads/2023/09/Automotive-Research.png",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/fod.jpg",
+      "localPath": "wp-content/uploads/2023/09/fod.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/5-1-scaled.jpg",
+      "localPath": "wp-content/uploads/2023/09/5-1-scaled.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/11-1-scaled.jpg",
+      "localPath": "wp-content/uploads/2023/09/11-1-scaled.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/Government-Public-sector-768x512.jpg",
+      "localPath": "wp-content/uploads/2023/09/Government-Public-sector-768x512.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/11-1-768x512.jpg",
+      "localPath": "wp-content/uploads/2023/09/11-1-768x512.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/1-2-300x169.jpg",
+      "localPath": "wp-content/uploads/2023/09/1-2-300x169.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/1-2-1536x864.jpg",
+      "localPath": "wp-content/uploads/2023/09/1-2-1536x864.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/1-2-1024x576.jpg",
+      "localPath": "wp-content/uploads/2023/09/1-2-1024x576.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/1-2-2048x1152.jpg",
+      "localPath": "wp-content/uploads/2023/09/1-2-2048x1152.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/fod-300x157.jpg",
+      "localPath": "wp-content/uploads/2023/09/fod-300x157.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/Automotive-Research-300x225.png",
+      "localPath": "wp-content/uploads/2023/09/Automotive-Research-300x225.png",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/Automotive-Research-1024x768.png",
+      "localPath": "wp-content/uploads/2023/09/Automotive-Research-1024x768.png",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/fod-1024x535.jpg",
+      "localPath": "wp-content/uploads/2023/09/fod-1024x535.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/4-1-300x200.jpg",
+      "localPath": "wp-content/uploads/2023/09/4-1-300x200.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/4-1-1024x683.jpg",
+      "localPath": "wp-content/uploads/2023/09/4-1-1024x683.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/4-1-1536x1024.jpg",
+      "localPath": "wp-content/uploads/2023/09/4-1-1536x1024.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/5-1-300x200.jpg",
+      "localPath": "wp-content/uploads/2023/09/5-1-300x200.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/4-1-2048x1365.jpg",
+      "localPath": "wp-content/uploads/2023/09/4-1-2048x1365.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/5-1-1024x681.jpg",
+      "localPath": "wp-content/uploads/2023/09/5-1-1024x681.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/5-1-1536x1022.jpg",
+      "localPath": "wp-content/uploads/2023/09/5-1-1536x1022.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/5-1-2048x1363.jpg",
+      "localPath": "wp-content/uploads/2023/09/5-1-2048x1363.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/6-1-300x200.jpg",
+      "localPath": "wp-content/uploads/2023/09/6-1-300x200.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/6-1-1024x683.jpg",
+      "localPath": "wp-content/uploads/2023/09/6-1-1024x683.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/6-1-1536x1024.jpg",
+      "localPath": "wp-content/uploads/2023/09/6-1-1536x1024.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/6-1-2048x1365.jpg",
+      "localPath": "wp-content/uploads/2023/09/6-1-2048x1365.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/7-1-1024x576.jpg",
+      "localPath": "wp-content/uploads/2023/09/7-1-1024x576.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/7-1-300x169.jpg",
+      "localPath": "wp-content/uploads/2023/09/7-1-300x169.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/7-1-1536x864.jpg",
+      "localPath": "wp-content/uploads/2023/09/7-1-1536x864.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/7-1-2048x1153.jpg",
+      "localPath": "wp-content/uploads/2023/09/7-1-2048x1153.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/Hospitality-300x197.jpg",
+      "localPath": "wp-content/uploads/2023/09/Hospitality-300x197.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/social-300x200.jpg",
+      "localPath": "wp-content/uploads/2023/09/social-300x200.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/social-1536x1024.jpg",
+      "localPath": "wp-content/uploads/2023/09/social-1536x1024.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/social-1024x683.jpg",
+      "localPath": "wp-content/uploads/2023/09/social-1024x683.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/Government-Public-sector-1024x683.jpg",
+      "localPath": "wp-content/uploads/2023/09/Government-Public-sector-1024x683.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/Government-Public-sector-300x200.jpg",
+      "localPath": "wp-content/uploads/2023/09/Government-Public-sector-300x200.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/social-2048x1365.jpg",
+      "localPath": "wp-content/uploads/2023/09/social-2048x1365.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/11-1-300x200.jpg",
+      "localPath": "wp-content/uploads/2023/09/11-1-300x200.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/11-1-1024x683.jpg",
+      "localPath": "wp-content/uploads/2023/09/11-1-1024x683.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/11-1-1536x1024.jpg",
+      "localPath": "wp-content/uploads/2023/09/11-1-1536x1024.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/uploads/2023/09/11-1-2048x1365.jpg",
+      "localPath": "wp-content/uploads/2023/09/11-1-2048x1365.jpg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://ghausia-research.ae/wp-content/cache/wpo-minify/1776113826/assets/wpo-minify-header-elementor-post-69531695116852.min.css",
+      "localPath": "wp-content/cache/wpo-minify/1776113826/assets/wpo-minify-header-elementor-post-69531695116852.min.css",
+      "kind": "css"
+    }
+  ],
+  "warnings": [
+    "Skipped 404 page: https://ghausia-research.ae/?p=97",
+    "Failed to download (500): https://ghausia-research.ae/wp-content/plugins/burst-statistics/endpoint.php",
+    "Failed to download (404): https://fonts.googleapis.com/"
+  ]
+}

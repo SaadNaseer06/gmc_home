@@ -1,0 +1,10 @@
+{
+  "name": "gmc-home",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Ghausia Marketing Research Consultancy - static site",
+  "scripts": {
+    "preview": "node server.mjs",
+    "start": "node server.mjs"
+  }
+}

@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 290" role="img" aria-label="Ghausia Marketing Research Consultancy">
+  <defs>
+    <linearGradient id="gmcGradLight" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2ec4b6"/>
+      <stop offset="55%" stop-color="#7ec8c4"/>
+      <stop offset="100%" stop-color="#d5dde0"/>
+    </linearGradient>
+  </defs>
+
+  <ellipse
+    cx="210"
+    cy="92"
+    rx="78"
+    ry="62"
+    fill="none"
+    stroke="url(#gmcGradLight)"
+    stroke-width="10"
+    transform="rotate(-18 210 92)"
+  />
+
+  <text
+    x="28"
+    y="128"
+    font-family="Arial Black, Arial, Helvetica, sans-serif"
+    font-size="118"
+    font-weight="900"
+    letter-spacing="-6"
+    fill="url(#gmcGradLight)"
+  >GMC</text>
+
+  <text
+    x="210"
+    y="198"
+    text-anchor="middle"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="28"
+    font-weight="800"
+    letter-spacing="1.5"
+  >
+    <tspan fill="#2ec4b6">GHAUSIA</tspan>
+    <tspan fill="#e8eef1"> MARKETING</tspan>
+  </text>
+  <text
+    x="210"
+    y="232"
+    text-anchor="middle"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="16"
+    font-weight="600"
+    letter-spacing="4.5"
+    fill="#c5ced4"
+  >RESEARCH CONSULTANCY</text>
+</svg>

@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 360" role="img" aria-label="Ghausia Marketing Research Consultancy">
+  <defs>
+    <linearGradient id="gmcMarkDark" x1="40" y1="40" x2="480" y2="40" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#2fd4c8"/>
+      <stop offset="42%" stop-color="#5fc4be"/>
+      <stop offset="100%" stop-color="#d7dfe2"/>
+    </linearGradient>
+    <linearGradient id="gmcRingDark" x1="160" y1="40" x2="360" y2="180" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#2fd4c8"/>
+      <stop offset="100%" stop-color="#c5d0d4"/>
+    </linearGradient>
+  </defs>
+
+  <ellipse
+    cx="268"
+    cy="118"
+    rx="98"
+    ry="72"
+    fill="none"
+    stroke="url(#gmcRingDark)"
+    stroke-width="14"
+    stroke-linecap="round"
+    transform="rotate(-22 268 118)"
+  />
+
+  <text
+    x="36"
+    y="168"
+    font-family="Arial Black, Impact, Arial, sans-serif"
+    font-size="148"
+    font-weight="900"
+    letter-spacing="-8"
+    fill="url(#gmcMarkDark)"
+  >GMC</text>
+
+  <text
+    x="260"
+    y="250"
+    text-anchor="middle"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="34"
+    font-weight="800"
+    letter-spacing="2"
+  >
+    <tspan fill="#2fd4c8">GHAUSIA</tspan>
+    <tspan fill="#e8eef1"> MARKETING</tspan>
+  </text>
+  <text
+    x="260"
+    y="288"
+    text-anchor="middle"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="20"
+    font-weight="600"
+    letter-spacing="5.5"
+    fill="#c5ced4"
+  >RESEARCH CONSULTANCY</text>
+</svg>

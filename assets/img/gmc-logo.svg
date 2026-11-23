@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 290" role="img" aria-label="Ghausia Marketing Research Consultancy">
+  <defs>
+    <linearGradient id="gmcGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2ec4b6"/>
+      <stop offset="55%" stop-color="#5a9ea0"/>
+      <stop offset="100%" stop-color="#8a9a9c"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Orbital ring behind/around M -->
+  <ellipse
+    cx="210"
+    cy="92"
+    rx="78"
+    ry="62"
+    fill="none"
+    stroke="url(#gmcGrad)"
+    stroke-width="10"
+    transform="rotate(-18 210 92)"
+  />
+
+  <!-- GMC wordmark -->
+  <text
+    x="28"
+    y="128"
+    font-family="Arial Black, Arial, Helvetica, sans-serif"
+    font-size="118"
+    font-weight="900"
+    letter-spacing="-6"
+    fill="url(#gmcGrad)"
+  >GMC</text>
+
+  <!-- Company name -->
+  <text
+    x="210"
+    y="198"
+    text-anchor="middle"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="28"
+    font-weight="800"
+    letter-spacing="1.5"
+  >
+    <tspan fill="#2ec4b6">GHAUSIA</tspan>
+    <tspan fill="#4a5560"> MARKETING</tspan>
+  </text>
+  <text
+    x="210"
+    y="232"
+    text-anchor="middle"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="16"
+    font-weight="600"
+    letter-spacing="4.5"
+    fill="#6b757d"
+  >RESEARCH CONSULTANCY</text>
+</svg>
