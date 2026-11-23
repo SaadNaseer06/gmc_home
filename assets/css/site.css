@@ -762,7 +762,7 @@ blockquote {
   z-index: -2;
   background:
     linear-gradient(90deg, rgba(11, 41, 40, 1) 0%, rgba(11, 41, 40, 0.9) 42%, rgba(11, 41, 40, 0.45) 100%),
-    url("../../wp-content/uploads/2023/09/banner-2-2048x1365.jpg") right center / cover no-repeat;
+    url("../img/photos/statement-bg.jpg") right center / cover no-repeat;
   transform: scale(calc(1.14 - var(--p, 1) * 0.14));
   transform-origin: 70% 50%;
 }
